@@ -14,8 +14,8 @@ Ensure you have the following installed:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/dante4rt/swisstronik-erc-20.git
-    cd swisstronik-erc-20
+    git clone https://github.com/Niki-eth/swisstronik-erc20Task.git
+    cd swisstronik-erc20Task
     ```
 
 2. Make the `erc20.sh` script executable:
